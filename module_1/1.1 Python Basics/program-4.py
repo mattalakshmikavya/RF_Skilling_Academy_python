@@ -11,4 +11,5 @@ result=1
 for i in range(exponent):
     result=result*base
 
-    print(result)
+
+print("result:", result)

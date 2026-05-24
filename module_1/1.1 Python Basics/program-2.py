@@ -1,7 +1,8 @@
 ## 2. Write a program that takes user input (name, age, etc.)
 #  and prints a personalized message.
 
-name=input("enter your name")
-age=input("enter your age")
-city=input("enter your city")
-print("Welcome to my gitbub account")
+name=input("Enter your name")
+age=input("Enter your age")
+city=input("Enter your city")
+print("Hello", name, "you are", age, "years old and you live in", city)
+print("Welcome to my github account")
